@@ -65,7 +65,7 @@ export default function ServiceSection() {
               <IoIosPlay />
             </span>
           </Button>
-          <Box sx={StyleSheetList.shapeBox}>
+          <Box sx={styles.shapeBox}>
             <Image src={shapePattern} alt="shape" />
           </Box>
         </Box>
